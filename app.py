@@ -680,7 +680,7 @@ Built with Python + Streamlit
 
 <br><br>
 
-Made by <b>Akarsh</b>
+Made by <b>Shami</b>
 
 </div>
 """, unsafe_allow_html=True)
